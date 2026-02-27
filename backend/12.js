@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>Este método retorna a base elevada à potência do expoente. Por exemplo, 2 elevado a décima potência é 1024.</title>
+</head>
+  Autr: Vitoria
+
+<body>
+  <script>
+    var valor1 = Math.pow ( 1024,2);
+    alert (valor1);
+  </script>
+</body>
+</html>
